@@ -1,0 +1,79 @@
+[
+  {
+    "name": "admin",
+    "path": "/admin",
+    "component": "C:\\\\Users\\\\User01\\\\Documents\\\\ITAcademy\\\\Vue\\\\sprint9\\\\mimuvidb\\\\pages\\\\admin\\\\index.vue",
+    "chunkName": "pages/admin/index",
+    "_name": "_49f94401"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\User01\\\\Documents\\\\ITAcademy\\\\Vue\\\\sprint9\\\\mimuvidb\\\\pages\\\\login\\\\index.vue",
+    "chunkName": "pages/login/index",
+    "_name": "_e70eb8b2"
+  },
+  {
+    "name": "logout",
+    "path": "/logout",
+    "component": "C:\\\\Users\\\\User01\\\\Documents\\\\ITAcademy\\\\Vue\\\\sprint9\\\\mimuvidb\\\\pages\\\\logout\\\\index.vue",
+    "chunkName": "pages/logout/index",
+    "_name": "_07344fcc"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "C:\\\\Users\\\\User01\\\\Documents\\\\ITAcademy\\\\Vue\\\\sprint9\\\\mimuvidb\\\\pages\\\\register\\\\index.vue",
+    "chunkName": "pages/register/index",
+    "_name": "_8ea6223e"
+  },
+  {
+    "name": "user-account",
+    "path": "/user/account",
+    "component": "C:\\\\Users\\\\User01\\\\Documents\\\\ITAcademy\\\\Vue\\\\sprint9\\\\mimuvidb\\\\pages\\\\user\\\\account\\\\index.vue",
+    "chunkName": "pages/user/account/index",
+    "_name": "_5b52842e"
+  },
+  {
+    "name": "user-bestmovies",
+    "path": "/user/bestmovies",
+    "component": "C:\\\\Users\\\\User01\\\\Documents\\\\ITAcademy\\\\Vue\\\\sprint9\\\\mimuvidb\\\\pages\\\\user\\\\bestmovies\\\\index.vue",
+    "chunkName": "pages/user/bestmovies/index",
+    "_name": "_402fcb32"
+  },
+  {
+    "name": "user-bloqueados",
+    "path": "/user/bloqueados",
+    "component": "C:\\\\Users\\\\User01\\\\Documents\\\\ITAcademy\\\\Vue\\\\sprint9\\\\mimuvidb\\\\pages\\\\user\\\\bloqueados\\\\index.vue",
+    "chunkName": "pages/user/bloqueados/index",
+    "_name": "_4fa35956"
+  },
+  {
+    "name": "user-home",
+    "path": "/user/home",
+    "component": "C:\\\\Users\\\\User01\\\\Documents\\\\ITAcademy\\\\Vue\\\\sprint9\\\\mimuvidb\\\\pages\\\\user\\\\home\\\\index.vue",
+    "chunkName": "pages/user/home/index",
+    "_name": "_ec26868c"
+  },
+  {
+    "name": "user-mymovies",
+    "path": "/user/mymovies",
+    "component": "C:\\\\Users\\\\User01\\\\Documents\\\\ITAcademy\\\\Vue\\\\sprint9\\\\mimuvidb\\\\pages\\\\user\\\\mymovies\\\\index.vue",
+    "chunkName": "pages/user/mymovies/index",
+    "_name": "_535f77ac"
+  },
+  {
+    "name": "user-mymovies-id",
+    "path": "/user/mymovies/:id",
+    "component": "C:\\\\Users\\\\User01\\\\Documents\\\\ITAcademy\\\\Vue\\\\sprint9\\\\mimuvidb\\\\pages\\\\user\\\\mymovies\\\\_id\\\\index.vue",
+    "chunkName": "pages/user/mymovies/_id/index",
+    "_name": "_2483d9a0"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\User01\\\\Documents\\\\ITAcademy\\\\Vue\\\\sprint9\\\\mimuvidb\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_8b4ac538"
+  }
+]

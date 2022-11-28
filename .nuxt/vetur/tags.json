@@ -1,0 +1,35 @@
+{
+  "Carrusel": {
+    "description": "Auto imported from components/Carrusel.vue"
+  },
+  "FilmList": {
+    "description": "Auto imported from components/FilmList.vue"
+  },
+  "FilmReview": {
+    "description": "Auto imported from components/FilmReview.vue"
+  },
+  "FilmSearch": {
+    "description": "Auto imported from components/FilmSearch.vue"
+  },
+  "Menu": {
+    "description": "Auto imported from components/Menu.vue"
+  },
+  "ModalFilm": {
+    "description": "Auto imported from components/ModalFilm.vue"
+  },
+  "MovieMainData": {
+    "description": "Auto imported from components/MovieMainData.vue"
+  },
+  "PersonalComments": {
+    "description": "Auto imported from components/PersonalComments.vue"
+  },
+  "ProfileMainBtn": {
+    "description": "Auto imported from components/ProfileMainBtn.vue"
+  },
+  "ProfileSecondaryBtn": {
+    "description": "Auto imported from components/ProfileSecondaryBtn.vue"
+  },
+  "Spinner": {
+    "description": "Auto imported from components/Spinner.vue"
+  }
+}
